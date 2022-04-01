@@ -1,0 +1,15 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: View a cost analysis of your cloud compute spending and identify potential savings right from Cloud Manager. 
+summary: 클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 Cloud Manager에서 바로 잠재적인 비용 절감을 확인하십시오. 
+---
+= 컴퓨팅 설명서
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

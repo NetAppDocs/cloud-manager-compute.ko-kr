@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: 컴퓨팅 서비스의 새로운 기능에 대해 알아보십시오. 
+---
+= 새로운 기능
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+컴퓨팅 서비스의 새로운 기능에 대해 알아보십시오.
+
+
+
+== 2020년 12월 7일
+
+
+
+=== Cloud Manager와 Spot 간 탐색
+
+이제 Cloud Manager와 Spot을 더 쉽게 탐색할 수 있습니다.
+
+Spot의 새로운 * 스토리지 운영 * 섹션을 사용하면 Cloud Manager로 직접 이동할 수 있습니다. 작업을 마치면 Cloud Manager의 * Compute * 탭에서 Spot 으로 돌아갈 수 있습니다.
+
+
+
+== 2020년 10월 18일
+
+
+
+=== 컴퓨팅 서비스를 소개합니다
+
+활용할 수 있습니다 https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer를 참조하십시오"^]이제 Cloud Manager를 사용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다. 이 정보는 Cloud Manager의 * Compute * 서비스에서 확인할 수 있습니다.
+
+link:concept-compute.html["컴퓨팅 서비스에 대해 자세히 알아보십시오"].
+
+image:screenshot_compute_dashboard.gif["Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷"]

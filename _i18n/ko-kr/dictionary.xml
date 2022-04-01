@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="eece53abc6d84973fe78f6fa978750a8" category="summary">컴퓨팅 서비스의 새로운 기능에 대해 알아보십시오.</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">새로운 기능</block>
+  <block id="5dbeb3fac0061c5a7312b60d8b30a979" category="section-title">2020년 12월 7일</block>
+  <block id="9dc245f64def9d62941e9ee3f4af4adb" category="section-title">Cloud Manager와 Spot 간 탐색</block>
+  <block id="429b7972d23af5e411304108791f1c6c" category="paragraph">이제 Cloud Manager와 Spot을 더 쉽게 탐색할 수 있습니다.</block>
+  <block id="6673d1ba63d3b88416bb57a52f24edaf" category="paragraph">Spot의 새로운 * 스토리지 운영 * 섹션을 사용하면 Cloud Manager로 직접 이동할 수 있습니다. 작업을 마치면 Cloud Manager의 * Compute * 탭에서 Spot 으로 돌아갈 수 있습니다.</block>
+  <block id="8c5333ffafbd680d89f2b3b6020d1848" category="section-title">2020년 10월 18일</block>
+  <block id="776903deac41433ca593263c8812b21c" category="section-title">컴퓨팅 서비스를 소개합니다</block>
+  <block id="8ecc68a9339de03fc0f6e65490a53645" category="inline-link">Spot's Cloud Analyzer를 참조하십시오</block>
+  <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">활용할 수 있습니다<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>이제 Cloud Manager를 사용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다. 이 정보는 Cloud Manager의 * Compute * 서비스에서 확인할 수 있습니다.</block>
+  <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link-macro">컴퓨팅 서비스에 대해 자세히 알아보십시오</block>
+  <block id="8cc0daa7105cfeb2e7d5f20b79723fcb" category="paragraph"><block ref="17a781588297286182195c4b48f62db3" category="inline-link-macro-rx"></block>.</block>
+  <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷</block>
+  <block id="4d2269079ceadb46a414d16a2d033af9" category="paragraph"><block ref="4d2269079ceadb46a414d16a2d033af9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6d79ef20eb182089395ef09e4c198ccb" category="summary">Cloud Manager는 Spot의 Cloud Analyzer 서비스를 활용하여 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 수행하고 잠재적인 비용 절감을 파악할 수 있습니다.</block>
+  <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">컴퓨팅 서비스에 대해 자세히 알아보십시오</block>
+  <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Spot's Cloud Analyzer 서비스</block>
+  <block id="87f25268f4538def4b3cbb0148369b1b" category="paragraph">활용할 수 있습니다<block ref="4b96c8339310a566633babc222b55825" category="inline-link-rx"></block>Cloud Manager를 사용하면 클라우드 컴퓨팅 지출에 대한 상위 수준의 비용 분석을 제공하고 잠재적 비용 절감을 식별할 수 있습니다.</block>
+  <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">Cloud Analyzer는 클라우드 비용에 대한 가시성과 통찰력을 제공하기 위해 고급 분석을 사용하는 클라우드 인프라 관리 솔루션입니다. 이 도구를 사용하면 이러한 비용을 최적화할 수 있는 위치를 확인할 수 있으며, 몇 번의 클릭만으로 Spot의 지속적인 최적화 제품 포트폴리오를 사용하여 최적화를 구현할 수 있습니다.</block>
+  <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">피처</block>
+  <block id="b13786f788868ed1bede397373dc9471" category="list-text">해당 월의 현재 비용, 예상 월 비용, 누락된 비용 등을 보여 주는 비용 분석</block>
+  <block id="22940f2df588dbac7740199a7b1c8cc9" category="list-text">예상 추가 비용 절감을 포함하여 계정별 지출 효율성 보기</block>
+  <block id="721a2bc621b10ff4fc87abb9ef228a1c" category="list-text">Spot's Cloud Analyzer에 대한 링크를 통해 모든 계정의 지출에 대한 자세한 정보를 확인할 수 있습니다</block>
+  <block id="902e65d33784bd8924eb05e622aa2dda" category="section-title">지원되는 클라우드 공급자</block>
+  <block id="c2a13a8b969b516ac9af28a61843732c" category="paragraph">이 서비스는 AWS에서 지원됩니다.</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
+  <block id="f534e70d23b20b69790b5281217a7257" category="paragraph">Cloud Manager를 통해 이 서비스를 무료로 사용할 수 있습니다.</block>
+  <block id="7c06c52c4e76bd8d67d4da904f426cb1" category="section-title">Cloud Analyzer를 Cloud Manager와 함께 사용하는 방법</block>
+  <block id="4d8eb0bc0298d7b1b0ea3f4f618ea0e1" category="paragraph">고수준에서 Cloud Analyzer와 Cloud Manager의 통합은 다음과 같이 작동합니다.</block>
+  <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">Compute * 를 클릭하고 AWS 관리 계정을 연결합니다.</block>
+  <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">NetApp은 다음과 같이 환경을 구성합니다.</block>
+  <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">Spot 플랫폼에 조직을 만듭니다.</block>
+  <block id="160fee406155d1c4308599be28a10850" category="list-text">Spot에 환영 이메일을 보냅니다.</block>
+  <block id="d22621cbc677aa8d88d1a0df694b9d60" category="paragraph">Cloud Central 및 Cloud Manager에서 사용하는 것과 동일한 SSO(Single Sign-On) 자격 증명을 사용하여 Spot 서비스에 로그인할 수 있습니다.</block>
+  <block id="d68a9d5829a20c130e867fef2a4695c6" category="list-text">Cloud Analyzer에서 AWS 계정 데이터 처리를 시작합니다.</block>
+  <block id="1caf35c7462aa72e36bfd6de6b5f6d8e" category="list-text">Cloud Manager에서 컴퓨팅 페이지를 새로고침하면 정보를 사용하여 이전, 현재 및 향후 클라우드 비용에 대한 통찰력을 얻을 수 있습니다.</block>
+  <block id="d324de754d17bd272e8971296440d6f6" category="list-text">언제든지 * Get Full Analysis * 를 클릭하여 Spot's Cloud Analyzer로 이동하면 클라우드 지출과 비용 절감 기회를 완벽하게 분석할 수 있습니다.</block>
+  <block id="4c5d94eb4dc4bff93f6a96a08ab7b244" category="section-title">데이터 보안</block>
+  <block id="927d8afbddd6abdbda7791916303bd5e" category="paragraph">Cloud Analyzer 데이터는 사용되지 않을 때 암호화되며 계정에 대한 자격 증명은 저장되지 않습니다.</block>
+  <block id="ce21e7ae4271271294ccbf54c8fd6864" category="summary">NetApp은 다양한 방법으로 Cloud Manager를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으십시오</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link-macro"></block>
+  <block id="7ccaf84febc0ed633fbdbadb8d488a7e" category="paragraph"><block ref="7ccaf84febc0ed633fbdbadb8d488a7e" category="inline-link-macro-rx"></block></block>
+  <block id="0110949a431061ee668054b5ab98627e" category="summary">고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.</block>
+  <block id="2a4220102e5972b56988182c09f604aa" category="doc">컴퓨팅 비용을 분석합니다</block>
+  <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.</block>
+  <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">비용 분석 보기</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
+  <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">Compute(계산) * 를 클릭합니다.</block>
+  <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">비용 분석을 통해 컴퓨팅 비용에 대한 통찰력을 얻을 수 있습니다.</block>
+  <block id="08c7073117589917ae653b4ee85aa678" category="inline-image-macro">Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷 이 페이지에는 아래 텍스트에 설명된 정보가 포함되어 있습니다.</block>
+  <block id="40c72762e79ce7a14f7f5fa9134f5541" category="paragraph"><block ref="40c72762e79ce7a14f7f5fa9134f5541" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3f994038d6dd09b875518b9b5d38a005" category="list-text">월-일 비용</block>
+  <block id="95a217721be0bcb767d045a065ccf8aa" category="list-text">현재 달부터 현재까지의 총 워크로드 비용입니다.</block>
+  <block id="1cc2cf546407159fc46856165777a76d" category="list-text">예상 비용</block>
+  <block id="a710a8ef9275bd55e0bc8125f0217049" category="list-text">사용 패턴 분석을 기반으로 월말에 예측된 비용.</block>
+  <block id="faeccef940f463467d447e92cc1dfd2e" category="list-text">지난 주에 비용을 절감하지 못했습니다</block>
+  <block id="c8d9648f3c9f70333dd7f7c046f73114" category="list-text">스폿 인스턴스 및 예약을 최적화하여 이전 7일 내에 달성할 수 있었던 비용 절감 효과</block>
+  <block id="f7c5dd70e9abbb23cdb81ee75dc3127d" category="list-text">최고의 AWS 계정 비용 효율성</block>
+  <block id="b25c45f4ba2e6148a5a227e7c66eaf84" category="list-text">가장 많은 예상 추가 절감액을 기준으로 상위 10개 어카운트를 대상으로 합니다.</block>
+  <block id="bc10c46f791a5ed5a97c400fda3a64d6" category="paragraph">각 계정에는 현재 및 추가 잠재적 절감을 기준으로 효율성 점수가 할당됩니다. 추가 비용 절감은 SPOT 및 예약된 인스턴스를 사용하여 추가 절약할 수 있는 양을 나타냅니다.</block>
+  <block id="46153b60daff1c72219f289abfb3a3f7" category="paragraph">다음 조치를 통해 고객을 더욱 최적화할 수 있습니다.</block>
+  <block id="c1d68901145b2010b1a8aeba75bc991c" category="list-text">* 세부 정보 보기 *: Spot's Cloud Analyzer로 이동하여 비용 최적화 기회를 확인하십시오.</block>
+  <block id="ddb875f7987b405235cbee12d6aae606" category="list-text">* 연결 *: 아직 관리되지 않은 계정을 연결합니다. 계정을 연결하는 마법사로 이동합니다.</block>
+  <block id="6d3eb204453d122284ed4a432cfdd72a" category="list-text">상위 AWS 계정</block>
+  <block id="7fb07d9d0284fd6863ef2a7db76e04cf" category="list-text">비용 기준으로 상위 10개 계정을 보여 주는 막대 그래프입니다. 이 그래프는 지난 30일 동안의 지출 활동을 기반으로 합니다.</block>
+  <block id="3141db86bc2665181620f829e8eb01a8" category="inline-link">Spot's Cloud Analyzer에서 제공하는 비용 분석 페이지에 대해 자세히 알아보십시오</block>
+  <block id="f87962acab06efc931371dbba9b655f5" category="paragraph"><block ref="0b7683cbc9f0ee5f5a4a05bb1d598a4b" category="inline-link-rx"></block>.</block>
+  <block id="880161807749301ac59aa2e2e50748e8" category="section-title">전체 분석 결과를 확인하십시오</block>
+  <block id="a4fb91966a6fc1ddb81d36dbaad62eb6" category="paragraph">자세한 분석 및 권장 사항은 Cloud Analyzer를 참조하십시오.</block>
+  <block id="cdb47ab3dcbc5b978ba715b20ca2474d" category="paragraph">언제든지 * Get Full Analysis * 를 클릭하여 더 많은 차트 및 분석, 심층 권장 사항, 사용 사례 최적화 분석(컨테이너, ElasticApps 및 예약) 등에 액세스할 수 있습니다.</block>
+  <block id="3f833690ee7503fbe541b6256b3d6807" category="paragraph">다음은 Cloud Analyzer에서 확인할 수 있는 예입니다.</block>
+  <block id="0df007262bf194f46eb1953f4f3c7078" category="inline-image-macro">Spot's Cloud Analyzer의 비용 분석 페이지를 보여 주는 스크린샷</block>
+  <block id="2acab5c4763d0543a1176c40374553cd" category="paragraph"><block ref="2acab5c4763d0543a1176c40374553cd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="fbe408c237f5b1c0b80f1f32004958d8" category="inline-link">Cloud Analyzer의 기능에 대한 자세한 내용은 제품 페이지 를 참조하십시오</block>
+  <block id="be047dc506ce8de907952c21921ad701" category="list-text"><block ref="be047dc506ce8de907952c21921ad701" category="inline-link-rx"></block></block>
+  <block id="17dd96462b10711049d52dedde6ddc2b" category="inline-link">Cloud Analyzer 사용에 대한 도움말은 Spot 설명서를 참조하십시오</block>
+  <block id="745d17f34ad4743fc8506242741c7c95" category="list-text"><block ref="745d17f34ad4743fc8506242741c7c95" category="inline-link-rx"></block></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
+  <block id="c59ae8d7beeb519a23478ab048af482c" category="paragraph"><block ref="c59ae8d7beeb519a23478ab048af482c" category="inline-link-macro-rx"></block></block>
+  <block id="6f2ac1cf1da8ec34232c651d4bba0149" category="paragraph"><block ref="6f2ac1cf1da8ec34232c651d4bba0149" category="inline-link-macro-rx"></block></block>
+  <block id="4940124e8487cb4ea36f1511a195cf66" category="inline-link-macro">Cloud Manager 3.9에 대한 고지 사항</block>
+  <block id="c069fcc68c5dfa73ccc99924c836cae9" category="paragraph"><block ref="c069fcc68c5dfa73ccc99924c836cae9" category="inline-link-macro-rx"></block></block>
+  <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">Spot의 Cloud Analyzer에서 클라우드 컴퓨팅 비용을 심층 분석하기 위해 몇 가지 단계를 완료합니다.</block>
+  <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">Cloud Analyzer을 AWS 계정에 연결합니다</block>
+  <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">클라우드 컴퓨팅 비용을 최적화할 수 있도록 Cloud Analyzer를 AWS 지불자 계정에 연결하십시오.</block>
+  <block id="82c17f884916312cf836be619c0f30b3" category="list-text">시작에 AWS 자격 증명 추가 * 를 클릭합니다.</block>
+  <block id="d26bbc99ee4f03459f79c4515854e01c" category="list-text">페이지의 단계에 따라 AWS 계정을 연결합니다.</block>
+  <block id="967a3c762720190aa22ef075598669fd" category="list-text">AWS 관리 계정에 로그인합니다.</block>
+  <block id="99e81cf07180944f57414af8f3cbf726" category="list-text">AWS 계정에 비용 및 사용 보고서 설정</block>
+  <block id="539ab65affb84e62793065d7703303c5" category="list-text">CloudFormation 템플릿을 실행합니다.</block>
+  <block id="1d9c4b44100c952b0e042fa5de3ac24d" category="list-text">Spot RoleARN을 붙여 넣습니다.</block>
+  <block id="59df016e94ef3d379d7e17a78c9353f4" category="inline-link">이 단계에 대한 자세한 내용을 봅니다</block>
+  <block id="7d36f7ef084fb0934d1a1a86a6b22649" category="paragraph"><block ref="98a856f3a59c07c2e882d1b19866ae87" category="inline-link-rx"></block>.</block>
+  <block id="83473ceecf18da71bfa5696ac242d0bf" category="inline-image-macro">연결 페이지에서 사용할 수 있는 각 필드를 보여 주는 스크린샷</block>
+  <block id="fbe402e9579140daae0c0cddf837f4b4" category="paragraph"><block ref="fbe402e9579140daae0c0cddf837f4b4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">컴퓨팅 비용을 분석합니다</block>
+  <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">Cloud Analyzer에서 AWS 계정 데이터 처리를 시작합니다. 계정이 여러 개인 경우 Cloud Analyzer는 관리 계정 아래의 연결된 모든 계정에 대해 읽기 전용 기능으로 시작합니다. 이러한 계정의 잠재적 절감 효과에 대한 자세한 내용을 보려면 계정을 연결해야 합니다. 계정 연결에 대한 자세한 내용은 에서 확인할 수 있습니다 <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>.</block>
+  <block id="07b933213828c1d942943f34617e62b0" category="summary">클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 Cloud Manager에서 바로 잠재적인 비용 절감을 확인하십시오.</block>
+  <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">컴퓨팅 설명서</block>
+  <block id="3c10116b37b407ac79092a38ffb292e4" category="summary">NetApp 기술 지원으로 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 Cloud Manager에 추가한 다음 지원을 위해 등록해야 합니다.</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원을 위해 등록하십시오</block>
+  <block id="d53e2559d6ace0e907fc57192bf286b6" category="paragraph"><block ref="d53e2559d6ace0e907fc57192bf286b6" category="inline-link-macro-rx"></block></block>
+  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">모든 Cloud Manager 설명서</block>
+  <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">컴퓨팅 문서</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
+  <block id="39b47babddc2784c0d74d47260b51730" category="sidebar">AWS 계정을 연결합니다</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식 및 지원</block>
+  <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">컴퓨팅 서비스를 사용합니다</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 커뮤니티</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
+  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central 블로그</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">클라우드 웨비나</block>
+</blocks>

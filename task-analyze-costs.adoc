@@ -1,0 +1,63 @@
+---
+sidebar: sidebar 
+permalink: task-analyze-costs.html 
+keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
+summary: 고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다. 
+---
+= 컴퓨팅 비용을 분석합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 과거, 현재 및 미래의 클라우드 비용을 파악할 수 있습니다.
+
+
+
+== 비용 분석 보기
+
+.단계
+. Compute(계산) * 를 클릭합니다.
+. 비용 분석을 통해 컴퓨팅 비용에 대한 통찰력을 얻을 수 있습니다.
+
+
+image:screenshot_compute_dashboard.gif["Cloud Manager의 비용 분석 페이지를 보여 주는 스크린샷 이 페이지에는 아래 텍스트에 설명된 정보가 포함되어 있습니다."]
+
+월-일 비용:: 현재 달부터 현재까지의 총 워크로드 비용입니다.
+예상 비용:: 사용 패턴 분석을 기반으로 월말에 예측된 비용.
+지난 주에 비용을 절감하지 못했습니다:: 스폿 인스턴스 및 예약을 최적화하여 이전 7일 내에 달성할 수 있었던 비용 절감 효과
+최고의 AWS 계정 비용 효율성:: 가장 많은 예상 추가 절감액을 기준으로 상위 10개 어카운트를 대상으로 합니다.
++
+--
+각 계정에는 현재 및 추가 잠재적 절감을 기준으로 효율성 점수가 할당됩니다. 추가 비용 절감은 SPOT 및 예약된 인스턴스를 사용하여 추가 절약할 수 있는 양을 나타냅니다.
+
+다음 조치를 통해 고객을 더욱 최적화할 수 있습니다.
+
+* * 세부 정보 보기 *: Spot's Cloud Analyzer로 이동하여 비용 최적화 기회를 확인하십시오.
+* * 연결 *: 아직 관리되지 않은 계정을 연결합니다. 계정을 연결하는 마법사로 이동합니다.
+
+
+--
+상위 AWS 계정:: 비용 기준으로 상위 10개 계정을 보여 주는 막대 그래프입니다. 이 그래프는 지난 30일 동안의 지출 활동을 기반으로 합니다.
+
+
+https://help.spot.io/cloud-analyzer/cost-analysis/["Spot's Cloud Analyzer에서 제공하는 비용 분석 페이지에 대해 자세히 알아보십시오"^].
+
+
+
+== 전체 분석 결과를 확인하십시오
+
+자세한 분석 및 권장 사항은 Cloud Analyzer를 참조하십시오.
+
+언제든지 * Get Full Analysis * 를 클릭하여 더 많은 차트 및 분석, 심층 권장 사항, 사용 사례 최적화 분석(컨테이너, ElasticApps 및 예약) 등에 액세스할 수 있습니다.
+
+다음은 Cloud Analyzer에서 확인할 수 있는 예입니다.
+
+image:screenshot_compute_dashboard_spot.gif["Spot's Cloud Analyzer의 비용 분석 페이지를 보여 주는 스크린샷"]
+
+* https://spot.io/products/cloud-analyzer/["Cloud Analyzer의 기능에 대한 자세한 내용은 제품 페이지 를 참조하십시오"^]
+* https://help.spot.io/cloud-analyzer/["Cloud Analyzer 사용에 대한 도움말은 Spot 설명서를 참조하십시오"^]
+
