@@ -7,6 +7,7 @@ summary: 클라우드 컴퓨팅 지출에 대한 비용 분석을 확인하고 C
 ---
 = 컴퓨팅 설명서
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Spot의 Cloud Analyzer에서 클라우드 컴퓨팅 비용을 심층 �
 ---
 = Cloud Analyzer을 AWS 계정에 연결합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

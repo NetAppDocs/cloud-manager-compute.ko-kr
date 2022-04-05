@@ -6,6 +6,7 @@ summary: 고객을 연결한 후 클라우드 컴퓨팅 비용 분석을 통해 
 ---
 = 컴퓨팅 비용을 분석합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
